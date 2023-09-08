@@ -1,1 +1,2 @@
-# GAME3023_L1
+# Game Engines III | Lab 1
+## Developed by Andrii Gastello
